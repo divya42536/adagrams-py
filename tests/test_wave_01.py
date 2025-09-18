@@ -1,11 +1,10 @@
 import pytest
-
 from adagrams.game import draw_letters
 
 LETTER_POOL = {
     'A': 9, 
     'B': 2, 
-    'C': 2, 
+    'C': 2,
     'D': 4, 
     'E': 12, 
     'F': 2, 
